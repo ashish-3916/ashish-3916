@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-3916&label=Views&color=blue&style=plastic" alt="ashish" /> </p>
-
+-->
 
 <a href="www.linkedin.com/in/ashish-dangi">
   <img align="left" alt="Ashish's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,6 +23,8 @@
 
 Here are some ideas to get you started:
 -->
+<br>
+<br>
 - 🌱 I’m currently learning BackEnd Web Development
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with 
