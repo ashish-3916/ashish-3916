@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am Ashish 👋
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-3916&label=Views&color=blue&style=plastic" alt="ashish" /> </p>
 -->
@@ -18,11 +18,6 @@
 <a href="https://codeforces.com/profile/ashu_3916">
   <img align="left" alt="Ashish's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-<!--
-**ashish-3916/ashish-3916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <br>
 <br>
 - 🌱 I’m currently learning BackEnd Web Development
