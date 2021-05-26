@@ -20,9 +20,8 @@
 </a>
 <br>
 <br>
-- 🌱 I’m currently learning BackEnd Web Development
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Data Structures And Algorithms
+- 🌱 I’m currently learning BackEnd Web Development <br>
+- 👯 I’m looking to collaborate on Projects <br>
+- 💬 Ask me about Data Structures And Algorithms <br>
 
 
