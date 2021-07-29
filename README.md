@@ -20,7 +20,7 @@
 </a>
 <br>
 <br>
-- 🌱 I’m currently working with WinZo as a Software Developer Intern <br>
+- 🌱 I’m currently working with WinZo as a Software Engineer Intern <br>
 - 🌱 I’m currently learning BackEnd Web Development <br>
 - 👯 I’m looking to collaborate on Projects <br>
 - 💬 Ask me about Data Structures And Algorithms <br>
