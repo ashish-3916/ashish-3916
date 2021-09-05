@@ -19,7 +19,12 @@
   <img align="left" alt="ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
-<p align="right"><em>So, yesterday Mr.Code and Ms. VSCode broke up 😢 </em></p><br>
+<p align="right">
+  <em>So, yesterday Mr.Code and Ms. VSCode broke up 😢 </em><br>
+  <em>She left out in peace  </em><br>
+  <em>She left him in pieces </em><br>
+  <em>I'm glad he met Ms. StackOverFlow earlier. </em><br>  
+</p>
 <br>
 - 🌱 I’m currently learning BackEnd Web Development <br>
 - 👯 I’m looking to collaborate on Projects <br>
