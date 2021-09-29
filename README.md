@@ -38,5 +38,4 @@
 -->
 
 <br>
-<p> I'm only seventeen, I don't know anything .. </p>
-
+I'm only seventeen, I don't know anything ...
