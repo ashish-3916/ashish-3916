@@ -21,6 +21,9 @@
   <img align="left" alt="ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
+<br>
+I'm only seventeen, I don't know anything ...
+
 <!--
 <p align="right">
   <em>So, yesterday Mr.Code and Ms. VSCode broke up 😢 </em><br>
@@ -34,8 +37,4 @@
 - 🌱 I’m currently learning BackEnd Web Development <br>
 - 👯 I’m looking to collaborate on Projects <br>
 - 💬 Ask me about Data Structures And Algorithms <br>
-
 -->
-
-<br>
-I'm only seventeen, I don't know anything ...
