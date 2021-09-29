@@ -9,11 +9,9 @@
 <a href="https://leetcode.com/ashu_3916/">
   <img align="left" alt="Ashish's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<!--
-<a href="https://codeforces.com/profile/ashu_3916">
-  <img align="left" alt="Ashish's CodeForces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+<a href="https://codechef.com/profile/ashu_3916">
+  <img align="left" alt="Ashish's ]CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
--->
 <a href="https://github.com/ashish-3916">
   <img align="left" alt="ashish's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
