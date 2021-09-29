@@ -9,7 +9,7 @@
 <a href="https://leetcode.com/ashu_3916/">
   <img align="left" alt="Ashish's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://codechef.com/profile/ashu_3916">
+<a href="https://codechef.com/users/ashu_3916">
   <img align="left" alt="Ashish's ]CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://github.com/ashish-3916">
