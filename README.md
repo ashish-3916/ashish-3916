@@ -1,8 +1,9 @@
 ### Hi there , I am Ashish 👋
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-3916&label=Views&color=blue&style=plastic" alt="ashish" /> </p>
--->
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ashish-3916)
+-->
 <br>
 <a href="http://linkedin.com/in/ashish-dangi">
   <img align="left" alt="Ashish's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
