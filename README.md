@@ -2,8 +2,7 @@
 
 <p align ="left">
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
-  <img height="200px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=ashish-3916&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="ashish's GitHub stats"/>
-  
+  <img height="200px" width="48%" src="https://github-readme-stats.vercel.app/api?theme=dark&username=ashish-3916&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="ashish's GitHub stats"/>
 </p>
 
 <!--
