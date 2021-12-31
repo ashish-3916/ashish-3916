@@ -27,6 +27,10 @@
 </a>
 <a href="https://instagram.com/ashish_3916/">
   <img align="center" alt="ashish's Instagram" width="25px" src="https://th.bing.com/th/id/OIP.oiiNzNZ0F9ZdLXN9JzqgSwHaHa?w=209&h=209&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
+</a>
+
+<a href="https://open.spotify.com/user/vtefw05i2dhqbr8fiy1k91jrg?si=1VY2Ti6WRd2zqxLWUAn7VQ&utm_source=copy-link">
+  <img align="center" alt="ashish's Spotify" width="25px" src="https://th.bing.com/th/id/OIP.8OD8Xw6kxFiY-ufpvnFRIgHaFj?w=196&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
 </a></p>
 
 <p align ="center">
