@@ -1,4 +1,4 @@
-<p align = "center" >  Hi there , I am Ashish 👋</p>
+<p align = "center" >  Hi there , I am Ashish <img src = "https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width ="20px"/> </p>
 
 <p align ="left">
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
@@ -38,12 +38,7 @@ I'm only seventeen, I don't know anything ...
 </p>
 <!--
 https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
-<p align="right">
-  <em>So, yesterday Mr.Code and Ms. VSCode broke up 😢 </em><br>
-  <em>She left out in peace  </em><br>
-  <em>She left him in pieces </em><br>
-  <em>I'm glad he met Ms. StackOverFlow earlier. </em><br>  
-</p>
+
 
 
 <br>
