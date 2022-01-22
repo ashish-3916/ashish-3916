@@ -22,6 +22,9 @@
 <a href="https://codechef.com/users/ashu_3916">
   <img align="center" alt="Ashish's CodeChef" width="25px" src="https://th.bing.com/th/id/OIP.icYKWrdBXl5PQmOQxw7NXwHaHa?w=178&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
 </a>
+    <a href="https://open.spotify.com/user/vtefw05i2dhqbr8fiy1k91jrg?si=1VY2Ti6WRd2zqxLWUAn7VQ&utm_source=copy-link">
+  <img align="center" alt="ashish's Spotify" width="25px" src="https://th.bing.com/th/id/OIP.8OD8Xw6kxFiY-ufpvnFRIgHaFj?w=196&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
+</a>
 <a href="https://github.com/ashish-3916">
   <img align="center" alt="ashish's Github" width="25px" src="https://www.bing.com/th?id=AMMS_10dfe5f19c48204f846d5a13a999c47f&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&dpr=1.25&pid=16.1" />
 </a>
@@ -29,9 +32,7 @@
   <img align="center" alt="ashish's Instagram" width="25px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
 </a>
 
-<a href="https://open.spotify.com/user/vtefw05i2dhqbr8fiy1k91jrg?si=1VY2Ti6WRd2zqxLWUAn7VQ&utm_source=copy-link">
-  <img align="center" alt="ashish's Spotify" width="25px" src="https://th.bing.com/th/id/OIP.8OD8Xw6kxFiY-ufpvnFRIgHaFj?w=196&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
-</a></p>
+</p>
 
 <p align ="center">
 I'm only seventeen, I don't know anything ...
