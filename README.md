@@ -1,4 +1,4 @@
-<p align = "center" >  Hi there , I am Ashish <img src = "https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width ="20px"/> </p>
+<p align = "center" >  Hey there , I'm Ashish <img src = "https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width ="20px"/> </p>
 
 <p align ="left">
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
