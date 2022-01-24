@@ -4,7 +4,7 @@
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
   
   <img  src="https://github-readme-stats.vercel.app/api?username=ashish-3916&show_icons=true&hide_border=true&theme=dark&show_icons=true&line_height=27&count_private=true&include_all_commits=true" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-3916&theme=dark" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-3916&theme=dark&hide_border=true" width="48%" >
 </p>
 
 <!--
