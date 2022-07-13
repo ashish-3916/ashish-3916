@@ -40,11 +40,11 @@
 </a>
 
 </p>
-
+<!--
 <p align ="center">
 I'm only seventeen, I don't know anything ...
 </p>
-<!--
+
 https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
 
 
