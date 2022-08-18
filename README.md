@@ -25,7 +25,7 @@
 <a href="https://leetcode.com/ashu_3916/">
   <img align="center" alt="Ashish's Leetcode" width="25px" src="https://th.bing.com/th/id/OIP.160F6WVOdGkaQitbT3A5dAHaHa?w=150&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
 </a>
-<a href="https://codechef.com/users/ashu_3916">
+<a href="https://codechef.com/users/loser_3916">
   <img align="center" alt="Ashish's CodeChef" width="25px" src="https://th.bing.com/th/id/OIP.icYKWrdBXl5PQmOQxw7NXwHaHa?w=178&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7" />
  <!--
 <a href="https://codeforces.com/profile/ashu_3916">
