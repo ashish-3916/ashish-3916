@@ -35,7 +35,7 @@
  <a href="https://github.com/ashish-3916">
   <img align="center" alt="ashish's Github" width="25px" src="https://www.bing.com/th?id=AMMS_10dfe5f19c48204f846d5a13a999c47f&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&dpr=1.25&pid=16.1" />
 </a> -->
-<a href="https://instagram.com/ashish_3916/">
+<a href="https://instagram.com/ashu_3916/">
   <img align="center" alt="ashish's Instagram" width="25px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
 </a>
 
