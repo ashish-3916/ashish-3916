@@ -2,7 +2,7 @@
   <img src = "https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width ="20px" height ="20px"/>
    </p>
 
-<p align ="left">
+<p align ="center">
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
   
   <img  src="https://github-readme-stats.vercel.app/api?username=ashish-3916&show_icons=true&hide_border=true&theme=dark&show_icons=true&line_height=27&count_private=true&include_all_commits=true" width="48%" align="left" >
