@@ -5,8 +5,8 @@
 <p align ="left">
 <a href="https://profile-summary-for-github.com/user/ashish-3916">
   
-  <img  src="https://github-readme-stats.vercel.app/api?username=ashish-3916&show_icons=true&hide_border=true&theme=dark&show_icons=true&line_height=27&count_private=true&include_all_commits=true" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-3916&theme=dark&hide_border=true" width="48%" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=ashish-3916&show_icons=true&hide_border=true&theme=dark&show_icons=true&line_height=27&count_private=true&include_all_commits=true" width="48%" align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-3916&theme=dark&hide_border=true" width="48%" align = "left">
 </p>
 
 <!--
@@ -38,6 +38,11 @@
 <a href="https://instagram.com/ashu_3916/">
   <img align="center" alt="ashish's Instagram" width="25px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
 </a>
+  
+  <a href="https://www.youtube.com/channel/UCKPocFV7pjxmOqtGqZ2pNug">
+  <img align="center" alt="ashish's Instagram" width="25px" src="https://th.bing.com/th/id/OIP.78P-lgzkaGvwCFG3hVMVLgHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.12&pid=1.7" />
+</a>
+
 
 </p>
 <p align ="center">
